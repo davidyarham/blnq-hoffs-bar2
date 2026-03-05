@@ -1,2 +1,3 @@
-# blnq-hoffs-bar2
-Created with Blnq Studio
+# Hoffs bar
+
+Created with [Blnq Studio](https://blnq.studio/e/oyNaLM5)
